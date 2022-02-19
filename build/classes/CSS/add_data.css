@@ -1,0 +1,39 @@
+#wName
+{
+    -fx-background-color: whitesmoke;
+    -fx-border-color: gray;
+    -fx-background-radius: 30pc;
+    -fx-border-radius: 30px;
+    -fx-font-color : Black
+}
+
+/******************************************/
+#wLink
+{
+    -fx-background-color: whitesmoke;
+    -fx-border-color: gray;
+    -fx-background-radius: 30pc;
+    -fx-border-radius: 30px;
+    -fx-font-color : Black
+}
+/********************************************/
+#wId
+{
+    -fx-background-color: whitesmoke;
+    -fx-border-color: gray;
+    -fx-background-radius: 30pc;
+    -fx-border-radius: 30px;
+    -fx-font-color : Black
+}
+
+/******************************************/
+#wPass
+{
+    -fx-background-color: whitesmoke;
+    -fx-border-color: gray;
+    -fx-background-radius: 30pc;
+    -fx-border-radius: 30px;
+    -fx-font-color : Black
+}
+/******************************************/
+

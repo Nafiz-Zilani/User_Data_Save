@@ -1,0 +1,18 @@
+#username
+{
+    -fx-background-color: whitesmoke;
+    -fx-border-color: gray;
+    -fx-background-radius: 30pc;
+    -fx-border-radius: 30px;
+    -fx-font-color : Black
+}
+
+/******************************************/
+#pass
+{
+    -fx-background-color: whitesmoke;
+    -fx-border-color: gray;
+    -fx-background-radius: 30pc;
+    -fx-border-radius: 30px;
+    -fx-font-color : Black
+}

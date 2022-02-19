@@ -1,0 +1,17 @@
+#logInField
+{
+    -fx-background-color: whitesmoke;
+    -fx-border-color: gray;
+    -fx-background-radius: 30pc;
+    -fx-border-radius: 30px;
+    -fx-font-color : Black
+}
+/******************************************/
+#passField
+{
+    -fx-background-color: whitesmoke;
+    -fx-border-color: gray;
+    -fx-background-radius: 30pc;
+    -fx-border-radius: 30px;
+    -fx-font-color : Black
+}
